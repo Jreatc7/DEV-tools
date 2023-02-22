@@ -1,5 +1,5 @@
 {
-    "version": "4.4.5.10",
+    "version": "4.5.1.10",
     "description": "qBittorrent Enhanced. BitTorrent client with anti-leech enhancement.",
     "homepage": "https://github.com/c0re100/qBittorrent-Enhanced-Edition",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "Web UI Theme https://github.com/WDaan/VueTorrent",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.5.10/qbittorrent_enhanced_4.4.5.10_Qt6_setup.exe#/setup.exe",
-            "hash": "fe00d2cb12b2e690e1817d8e075acd97db6a2432e1a9d18ededa01c64130aa79"
+            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.5.1.10/qbittorrent_enhanced_4.5.1.10_X64_setup.exe#/setup.exe",
+            "hash": "d3de516d6c6c06822e68fa0082d1509d9ecac0c2ae6baf7a4ab4ffef8e34ca8f"
         },
         "32bit": {
-            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.4.5.10/qbittorrent_enhanced_4.4.5.10_Qt6_setup.exe#/setup.exe",
-            "hash": "fe00d2cb12b2e690e1817d8e075acd97db6a2432e1a9d18ededa01c64130aa79"
+            "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-4.5.1.10/qbittorrent_enhanced_4.5.1.10_setup.exe#/setup.exe",
+            "hash": "c2ca4aa6fef75ebee55926ef1d61d1260ae5c5f0649dc42588b336401aab16f3"
         }
     },
     "pre_download": "Assert-Administrator",
@@ -57,10 +57,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_Qt6_setup.exe#/setup.exe"
+                "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_X64_setup.exe#/setup.exe"
             },
             "32bit": {
-                "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_Qt6_setup.exe#/setup.exe"
+                "url": "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/download/release-$version/qbittorrent_enhanced_$version_setup.exe#/setup.exe"
             }
         }
     }

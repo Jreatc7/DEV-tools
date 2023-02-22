@@ -4,7 +4,7 @@
     },
     "checkver": "github",
     "description": "Versatile typeface for code, from code.",
-    "hash": "91a051e96b364871ee22e2ea51ea66f9107e12caa35196e921e1881d02674fab",
+    "hash": "67ff27b8a9d8c8c9cecad732923a9ed6c833c54f1d42bfbf1f5b1f69a0d341d4",
     "homepage": "https://github.com/be5invis/Iosevka",
     "installer": {
         "script": [
@@ -26,6 +26,6 @@
             "Write-Host \"'Iosevka SS16' has been uninstalled and will not be present after restarting your computer.\" -Foreground Magenta"
         ]
     },
-    "url": "https://github.com/be5invis/Iosevka/releases/download/v16.7.0/super-ttc-iosevka-ss16-16.7.0.zip",
-    "version": "16.7.0"
+    "url": "https://github.com/be5invis/Iosevka/releases/download/v19.0.1/super-ttc-iosevka-ss16-19.0.1.zip",
+    "version": "19.0.1"
 }

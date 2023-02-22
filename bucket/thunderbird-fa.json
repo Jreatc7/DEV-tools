@@ -1,12 +1,12 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "sha512:41c0c9d3578b12e23df63d0e676cf7d91ae64e467564b204fdebdfa406770419e32610714be61f877e1cd5ca215babf406b3f667afb7eed04a86b5e73a5c8f4d",
-            "url": "https://archive.mozilla.org/pub/thunderbird/releases/102.6.0/win32/fa-IR/Thunderbird%20Setup%20102.6.0.exe#/dl.7z"
+            "hash": "sha512:0a12414eddad5157f9ca24bdfac8fcad206ddff032923aec513e56c4fbd6dd264c5110cd968dee780e5e560d5e70fa9b7c9ef2a9640df5d02c33c7b17b412b2f",
+            "url": "https://archive.mozilla.org/pub/thunderbird/releases/102.8.0/win32/fa-IR/Thunderbird%20Setup%20102.8.0.exe#/dl.7z"
         },
         "64bit": {
-            "hash": "sha512:41c0c9d3578b12e23df63d0e676cf7d91ae64e467564b204fdebdfa406770419e32610714be61f877e1cd5ca215babf406b3f667afb7eed04a86b5e73a5c8f4d",
-            "url": "https://archive.mozilla.org/pub/thunderbird/releases/102.6.0/win64/fa-IR/Thunderbird%20Setup%20102.6.0.exe#/dl.7z"
+            "hash": "sha512:0a12414eddad5157f9ca24bdfac8fcad206ddff032923aec513e56c4fbd6dd264c5110cd968dee780e5e560d5e70fa9b7c9ef2a9640df5d02c33c7b17b412b2f",
+            "url": "https://archive.mozilla.org/pub/thunderbird/releases/102.8.0/win64/fa-IR/Thunderbird%20Setup%20102.8.0.exe#/dl.7z"
         }
     },
     "autoupdate": {
@@ -50,5 +50,5 @@
             "-profile \"$dir\\profile\""
         ]
     ],
-    "version": "102.6.0"
+    "version": "102.8.0"
 }

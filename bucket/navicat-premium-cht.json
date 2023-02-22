@@ -1,11 +1,11 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "023e3ba1d384eb1d11a05b5d4e31316b9474600d6c011ef8c5cebd91085b3e1e",
+            "hash": "6d0249e61dc4265265e288b1b4ecc49689a443167d37792309238728141ab184",
             "url": "https://dn.navicat.com/download/navicat161_premium_ct_x86.exe"
         },
         "64bit": {
-            "hash": "e30926b8dc2f7938b340db1179cc7fb84c661ecf8be9fe0416161cbcade23a0b",
+            "hash": "fd6875c249dcf105c3eb5ef17e5c4637296db833ac3710494789590a1ff55095",
             "url": "https://dn.navicat.com/download/navicat161_premium_ct_x64.exe"
         }
     },
@@ -37,5 +37,5 @@
             "Navicat Premium"
         ]
     ],
-    "version": "16.1.6"
+    "version": "16.1.8"
 }

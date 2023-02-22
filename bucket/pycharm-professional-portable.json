@@ -40,7 +40,7 @@
     "description": "PyCharm Professional. Cross-Platform Python IDE for professional developers by JetBrains.",
     "extract_to": "IDE",
     "hash": [
-        "69b317eb5ec29f200778905e68a7745afecbff8bfd34a29033d22eef760a2215",
+        "dea8447f1d7e94545804e5275d9e5c178b7aed1eca9a55228b4af5f3bcb3c37d",
         "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
     ],
     "homepage": "https://www.jetbrains.com/pycharm/",
@@ -59,8 +59,8 @@
         "profile"
     ],
     "url": [
-        "https://download.jetbrains.com/python/pycharm-professional-2022.3.exe#/cosi.7z",
+        "https://download.jetbrains.com/python/pycharm-professional-2022.3.2.exe#/cosi.7z",
         "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
     ],
-    "version": "2022.3-223.7571.203"
+    "version": "2022.3.2-223.8617.48"
 }

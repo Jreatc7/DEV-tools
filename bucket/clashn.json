@@ -1,12 +1,12 @@
 {
-    "version": "2.11",
+    "version": "2.14",
     "description": "A clash client for Windows, support clash core and Clash.Meta core.",
     "homepage": "https://github.com/2dust/clashN",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/2dust/clashN/releases/download/2.11/clashN.zip",
-            "hash": "0a3a9dfda5a1b807907b92117ae9f0505dccbaa3332e99cecd9e11e4c304a5f3"
+            "url": "https://github.com/2dust/clashN/releases/download/2.14/clashN.zip",
+            "hash": "b7c4a960b258f1e6a75079f52926a31823fb612dd1f247da917012ef58f97317"
         }
     },
     "suggest": {

@@ -22,7 +22,7 @@
     },
     "description": "Plexamp. A beautiful, dedicated Plex music player with tons of goodies for audiophile purists, music curators, and hipsters looking for their next aural fix.",
     "extract_dir": "$PLUGINSDIR",
-    "hash": "68eb7bfba1420bc04d61c1f1bcfb767b51a62fe5a3fc299210fc05c4f2116c10",
+    "hash": "6be38c4ce0452f4be0c8276d55cece8c86e4af615d10c79303f56ab6b244b4c2",
     "homepage": "https://plexamp.com/",
     "license": "Apache-2.0",
     "shortcuts": [
@@ -31,6 +31,6 @@
             "Plexamp"
         ]
     ],
-    "url": "https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp%20Setup%204.6.1.exe#/dl.7z",
-    "version": "4.6.1"
+    "url": "https://plexamp.plex.tv/plexamp.plex.tv/desktop/Plexamp%20Setup%204.6.2.exe#/dl.7z",
+    "version": "4.6.2"
 }

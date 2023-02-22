@@ -1,8 +1,8 @@
 {
     "architecture": {
         "64bit": {
-            "hash": "sha512:827d66faf8666c8f12b6f85faece3edf3d87346ee71422b2d70e9e05e272b6d6bf0ff33b61348860effdfae1f4e91fcefb4ca37d76cd83267582733fc7df6728",
-            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/7.0.1/windowsdesktop-runtime-7.0.1-win-x64.exe"
+            "hash": "sha512:3a401ba2681cd6bf88cdbc63d64dae390b53a0d49f5cc5ebdc02429e51e503e274833e9f1984c644d64713553192ec933a30d6fc98386cb87abb605e33cdb4da",
+            "url": "https://dotnetcli.blob.core.windows.net/dotnet/WindowsDesktop/7.0.3/windowsdesktop-runtime-7.0.3-win-x64.exe"
         }
     },
     "autoupdate": {
@@ -31,5 +31,5 @@
     },
     "notes": "You can now remove this installer with 'scoop uninstall windowsdesktop-runtime-x64'",
     "pre_install": "if (!(is_admin)) { error 'Admin privileges are required.'; break }",
-    "version": "7.0.1"
+    "version": "7.0.3"
 }

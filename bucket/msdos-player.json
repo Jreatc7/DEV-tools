@@ -68,7 +68,7 @@
  },
  "description": "MS-DOS emulator for Win32-x64 command prompt.",
  "extract_dir": "msdos",
- "hash": "56564998c5d5351adf7211a13f7ed4d8229e175fb58dd6ded9cf81af52f3a29c",
+ "hash": "59f78e97238c70a7a7995f7361aecc1870b638442ccf6a377f0d979fc3958934",
  "homepage": "http://takeda-toshiya.my.coocan.jp/msdos/",
  "license": "GPL-2.0-or-later",
  "pre_install": [
@@ -77,5 +77,5 @@
   "Remove-Item \"$dir\\binary\", \"$dir\\source\" -Force -Recurse"
  ],
  "url": "http://takeda-toshiya.my.coocan.jp/msdos/msdos.7z",
- "version": "2022-09-20"
+ "version": "2022-12-30"
 }

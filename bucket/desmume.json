@@ -13,7 +13,7 @@
         "url": "https://github.com/TASEmulators/desmume/actions/workflows/build_win.yml?query=branch%3Amaster+is%3Asuccess"
     },
     "description": "Nintendo DS emulator",
-    "hash": "3eff73270228e62ceac3621e69dc4d6f606c1ee04ff8ba0adc1d8ec7b5d7c7c1",
+    "hash": "bc3e4bcc94875b65f28fcc631dd23359898607d7152a75b728ee8a1fe48b65a9",
     "homepage": "https://desmume.org",
     "license": {
         "identifier": "GPL-2.0",
@@ -44,5 +44,5 @@
         ]
     ],
     "url": "https://nightly.link/TASEmulators/desmume/workflows/build_win/master/desmume-win-x64.zip",
-    "version": "29c077c"
+    "version": "e1969c4"
 }

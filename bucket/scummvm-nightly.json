@@ -1,14 +1,14 @@
 {
     "architecture": {
         "32bit": {
-            "extract_dir": "windows-x86-master-2a8664e1",
-            "hash": "580b6cb1c68134c9ee9bec200d33b28b2fd469715938b62e442344a7bc12776a",
-            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-master-2a8664e1.zip"
+            "extract_dir": "windows-x86-master-4574bad0",
+            "hash": "1adcdb949da448bb44d2e1f87e1c24c329c9a407efba7cd0b87061b00bc7b29c",
+            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-master-4574bad0.zip"
         },
         "64bit": {
-            "extract_dir": "windows-x86-64-master-2a8664e1",
-            "hash": "4c24781b027d9a2150375007d75d27b61722ad131d6ce8fa45589506e5d48ab2",
-            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-64-master-2a8664e1.zip"
+            "extract_dir": "windows-x86-64-master-4574bad0",
+            "hash": "278c542e6425dfc106b1120ddd5676f8ec71600c887f56ddb39f876f4de006ec",
+            "url": "https://buildbot.scummvm.org/dailybuilds/master/windows-x86-64-master-4574bad0.zip"
         }
     },
     "autoupdate": {
@@ -49,5 +49,5 @@
             "ScummVM (nightly)"
         ]
     ],
-    "version": "2a8664e1"
+    "version": "4574bad0"
 }

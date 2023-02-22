@@ -1,14 +1,14 @@
 {
     "architecture": {
         "64bit": {
-            "hash": "b3030ac7b1f5eb924fb28435076bb4cc3f46b8f1b9d0aff87e966034dfe2efcb",
+            "hash": "bdcd0a3522f2964411567dc0d2bfb662f6853dd22c7970409c67cf693e1328af",
             "shortcuts": [
                 [
                     "IDE\\bin\\gateway64.exe",
                     "JetBrains\\Gateway (Early Access Program)"
                 ]
             ],
-            "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-223.8214.10.exe#/dl.7z"
+            "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-231.6890.12.exe#/dl.7z"
         }
     },
     "autoupdate": {
@@ -35,5 +35,5 @@
     },
     "persist": "IDE\\bin\\idea.properties",
     "pre_install": "Remove-Item \"$dir\\IDE\\`$*\" -Force -Recurse",
-    "version": "2022.3.1-223.8214.10"
+    "version": "2023.1-231.6890.12"
 }

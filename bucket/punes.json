@@ -5,7 +5,7 @@
  "bin": "punes64.exe",
  "checkver": "github",
  "description": "Qt-based Nintendo Entertaiment System emulator and NSF/NSFe Music Player (Direct3D Version)",
- "hash": "2b75965baafe8b7709d439bb5bdf5be72d5dc3dac77186f74789c443bb737350",
+ "hash": "491c2a35f80e8b75c72e4cc8c481e9547fad950bd083fdefdba2ebc92f7c443a",
  "homepage": "https://github.com/punesemu/puNES",
  "license": "GPL-2.0",
  "shortcuts": [
@@ -14,6 +14,6 @@
    "puNES (Direct3D)"
   ]
  ],
- "url": "https://github.com/punesemu/puNES/releases/download/v0.109/punes-0.109-x86_64-win-d3d9.zip",
- "version": "0.109"
+ "url": "https://github.com/punesemu/puNES/releases/download/v0.110/punes-0.110-x86_64-win-d3d9.zip",
+ "version": "0.110"
 }

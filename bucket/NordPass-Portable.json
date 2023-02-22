@@ -1,5 +1,5 @@
 {
-    "version": "4.33.11",
+    "version": "4.37.20",
     "description": "NordPass. A password management solution for a secure digital life.",
     "homepage": "https://nordpass.com/",
     "license": "Shareware",
@@ -7,12 +7,12 @@
     "architecture": {
         "64bit": {
             "url": "https://downloads.npass.app/windows/NordPassSetup.exe#/dl.7z",
-            "hash": "sha512:f50b41cbee93c5947bef6764d89fe174acd0dfc0c5544e01e392e11d2a9062e7db1a2a7415b270e5e73afb5ddc3638f4a44a800902c0ab7c87c196c6c698f6c3",
+            "hash": "sha512:5c8477e821d1d492f1f44e74a292e5edf5c1d24be392b2ce485c307ee3880218f4cf8eb35801261aa34fed9e9abe53787747e74b86ba64b080c38ae5580e68ca",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         },
         "32bit": {
             "url": "https://downloads.npass.app/windows_x86/NordPassSetup_x86.exe#/dl.7z",
-            "hash": "sha512:52eeb9cb9b2e7b9c23b6cda164266f32e2d785d0e4c7bc49f6f6fdcce4cbd944753d6778e6bd12cc141942e304d9bf96f199b97450e99f949bc74b4fb42c64e1",
+            "hash": "sha512:99904affe23b9d2a16ca72155e812a8e825a33fce5f70b73d60b059a86a15da7b348f74411ecad3f12c10c96d59818628b8469f1887e7eb629defe53ac6e0b29",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\""
         }
     },

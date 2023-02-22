@@ -12,7 +12,7 @@
   "url": "https://portableapps.com/apps/utilities/peazip_portable"
  },
  "description": "File archiver, compressor",
- "hash": "00d416bf792fece292e3c3cee435e05cf56486ef23c5627e66a2a46b1cf75962",
+ "hash": "e3665e3473646264b8ad1a70115625e268f930b18fd28122790b7d97ec025a2c",
  "homepage": "https://portableapps.com/apps/utilities/peazip_portable",
  "license": "",
  "persist": "Data",
@@ -23,6 +23,6 @@
    "PeaZipPortable"
   ]
  ],
- "url": "https://astuteinternet.dl.sourceforge.net/project/portableapps/PeaZip%20Portable/PeaZipPortable_8.9.0.paf.exe",
- "version": "8.9.0"
+ "url": "https://astuteinternet.dl.sourceforge.net/project/portableapps/PeaZip%20Portable/PeaZipPortable_9.0.0.paf.exe",
+ "version": "9.0.0"
 }

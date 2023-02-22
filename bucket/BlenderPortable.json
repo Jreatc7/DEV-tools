@@ -12,7 +12,7 @@
   "url": "https://portableapps.com/apps/graphics_pictures/blender_portable"
  },
  "description": "Rendering",
- "hash": "ec8c2a846ee9ecc1c863f5a50c26fdba472ba77e3665ad8b314716a2cf7eff8a",
+ "hash": "9b212113f89884afae964dafead2234831b1ed73d3ddb32c6e8e148c38619c79",
  "homepage": "https://portableapps.com/apps/graphics_pictures/blender_portable",
  "license": "",
  "persist": "Data",
@@ -23,6 +23,6 @@
    "BlenderPortable"
   ]
  ],
- "url": "https://ayera.dl.sourceforge.net/project/portableapps/Blender%20Portable/BlenderPortable_3.3.1.paf.exe",
- "version": "3.3.1"
+ "url": "https://ayera.dl.sourceforge.net/project/portableapps/Blender%20Portable/BlenderPortable_3.4.1.paf.exe",
+ "version": "3.4.1"
 }

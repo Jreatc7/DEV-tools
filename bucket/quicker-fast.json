@@ -2,11 +2,11 @@
     "##": "This package is not ported to the official buckets because ReadMe file written in English is not available. Extracting the .msi using 7-zip (which is by default in Scoop) causes path error. Therefore renaming it to .msi_.",
     "architecture": {
         "32bit": {
-            "hash": "8add6cfc2933ec5ab6509bc4935daf8bb2405520973cb34ef48e620e3c46bbc3",
+            "hash": "f6136b54b9d6752431ab54ff4472a86cdfb6e4fac36e225733856b983a0ef936",
             "url": "https://getquicker.net/download/item/fast_x86#/quicker.msi"
         },
         "64bit": {
-            "hash": "4d5fe95e4385ce5463c4391d7fd7fceb4387f9fe93b9e1e3e469cbe321bf44a7",
+            "hash": "505fd2bfd50941deba6a3e26c5ec50932543db026fb2ea3d1be2faa7a52140db",
             "url": "https://getquicker.net/download/item/fast_x64#/quicker.msi"
         }
     },
@@ -45,5 +45,5 @@
             "Quicker"
         ]
     ],
-    "version": "1.36.13.0"
+    "version": "1.36.32.0"
 }

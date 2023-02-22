@@ -2,12 +2,12 @@
  "architecture": {
   "32bit": {
    "extract_dir": "32-bit",
-   "hash": "f4e86c31eb99b73e9334f5ddaeddaa221d99ee58769dc578d3cd69c935f90145",
+   "hash": "b85c490c9dc601c81531a8cdb11b5da580892e20a5225dad5c97d9c2e638826a",
    "url": "https://www.softperfect.com/download/freeware/cacherelocator_portable.zip"
   },
   "64bit": {
    "extract_dir": "64-bit",
-   "hash": "f4e86c31eb99b73e9334f5ddaeddaa221d99ee58769dc578d3cd69c935f90145",
+   "hash": "b85c490c9dc601c81531a8cdb11b5da580892e20a5225dad5c97d9c2e638826a",
    "url": "https://www.softperfect.com/download/freeware/cacherelocator_portable.zip"
   }
  },
@@ -35,5 +35,5 @@
    "Cache Relocator"
   ]
  ],
- "version": "1.6"
+ "version": "1.7"
 }

@@ -1,13 +1,13 @@
 {
-    "version": "6.01.51028.0",
+    "version": "6.01.60209.0",
     "description": "Royal TS. Comprehensive Remote Management Solution",
     "homepage": "https://www.royalapps.com/ts/win",
     "license": "Shareware",
     "changelog": "https://support.royalapps.com/support/solutions/articles/17000113667-royal-ts-v6-release-notes",
     "architecture": {
         "64bit": {
-            "url": "https://download.royalapps.com/RoyalTS/RoyalTS_6.01.51028.0.zip",
-            "hash": "98f3893f6b54d49198d20af0ed10e5c1d41ec5903995bb262119f5a2bf50d461"
+            "url": "https://download.royalapps.com/RoyalTS/RoyalTS_6.01.60209.0.zip",
+            "hash": "ed7beb87971c66bd354e05c392930abae8a7f2e909a3953ff8e6920021617aa6"
         }
     },
     "post_install": [

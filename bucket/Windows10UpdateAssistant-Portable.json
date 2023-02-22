@@ -1,5 +1,5 @@
 {
-    "version": "November2021",
+    "version": "22H2",
     "description": "Windows 10 Update Assistant. Force update to latest version of Windows 10.",
     "homepage": "https://www.microsoft.com/en-GB/software-download/windows10",
     "license": "Freeware",
@@ -21,7 +21,7 @@
         ]
     ],
     "checkver": {
-        "regex": "Update l Version ((?<update>.+)"
+        "regex": "Update l Version ([\\w.]+)</h2>"
     },
     "autoupdate": {
         "url": "https://go.microsoft.com/fwlink/?LinkID=799445#/WindowsUpdateAssistant.exe"

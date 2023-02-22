@@ -1,8 +1,8 @@
 {
     "architecture": {
         "64bit": {
-            "hash": "817768e1651bd64fd064df0a1a9606f58e7d66432a2ecc5eb171bf4d0bd6d793",
-            "url": "https://az764295.vo.msecnd.net/insider/11238faea62d570d77afe6edfe05c8b732c44a2b/VSCode-win32-x64-1.75.0-insider.zip"
+            "hash": "4666b94241cfd5b74308af1a375054fe69d6842a86447aa4c3bda1608ab92623",
+            "url": "https://az764295.vo.msecnd.net/insider/dc619de8d9efdabd781fc5658d0051813c347055/VSCode-win32-x64-1.76.0-insider.zip"
         }
     },
     "autoupdate": {
@@ -61,5 +61,5 @@
             "Code - Insiders"
         ]
     ],
-    "version": "1.75.0-insider_1670908925956"
+    "version": "1.76.0-insider_1676524864029"
 }

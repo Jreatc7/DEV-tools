@@ -2,21 +2,21 @@
     "architecture": {
         "32bit": {
             "hash": [
-                "291bfa532aa2aca900adf3e5977114ea7b8b886a7b2f162a13c71d2ac3cf53bc",
-                "48a0fa04b5ab89a787fb5076d4d05de5349a64df73628a2d3753db559e50c57d"
+                "96f3576cbf86185228ffee241c97d6b3f8d34d4ead30ee1dfe542b8c171e3901",
+                "e6a5b24212e00c2eaf8d95125a9feec2ff384c76dc703a9016a40671fae5142a"
             ],
             "url": [
-                "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.10/Clash.for.Windows-0.20.10-ia32-win.7z",
+                "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.16/Clash.for.Windows-0.20.16-ia32-win.7z",
                 "https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/latest/download/app.7z"
             ]
         },
         "64bit": {
             "hash": [
-                "198457c8753277c1d54fb8ea6c84d988e5a38cd3e157210dcdefe1f43fbe964c",
-                "48a0fa04b5ab89a787fb5076d4d05de5349a64df73628a2d3753db559e50c57d"
+                "d1eabf1b8414886cf6ec43747c4d0892ec197586e2b32c7a36a41ec1227bc788",
+                "e6a5b24212e00c2eaf8d95125a9feec2ff384c76dc703a9016a40671fae5142a"
             ],
             "url": [
-                "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.10/Clash.for.Windows-0.20.10-win.7z",
+                "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.16/Clash.for.Windows-0.20.16-win.7z",
                 "https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/latest/download/app.7z"
             ]
         }
@@ -59,5 +59,5 @@
             "Clash for Windows"
         ]
     ],
-    "version": "0.20.10"
+    "version": "0.20.16"
 }

@@ -1,16 +1,16 @@
 {
-    "version": "7.9.1",
+    "version": "7.10.1",
     "description": "Very customizable imageboard/booru downloader with powerful filenaming features.",
     "homepage": "https://bionus.github.io/imgbrd-grabber",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Bionus/imgbrd-grabber/releases/download/v7.9.1/Grabber_v7.9.1_x64.zip",
-            "hash": "13ec32636b99d8ff30dc6d90a75f611ebaa25963e20e7c434d61491a3f2d41f1"
+            "url": "https://github.com/Bionus/imgbrd-grabber/releases/download/v7.10.1/Grabber_v7.10.1_x64.zip",
+            "hash": "b3524ce3777715cf3ce6bad1f5a624e4236cfa3357f431f01a77f4a3063ef6e4"
         },
         "32bit": {
-            "url": "https://github.com/Bionus/imgbrd-grabber/releases/download/v7.9.1/Grabber_v7.9.1_x86.zip",
-            "hash": "bb79b52fb6fa0882d30226571bc8c8cd6c9255a54ee45c5be93d0f6e5cdd8d4a"
+            "url": "https://github.com/Bionus/imgbrd-grabber/releases/download/v7.10.1/Grabber_v7.10.1_x86.zip",
+            "hash": "03a0716565cbfcf580811d3fdbcf005ff945eff129ed3cf4ca3407f80e24b7e5"
         }
     },
     "bin": [

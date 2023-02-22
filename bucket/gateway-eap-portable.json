@@ -3,7 +3,7 @@
     "architecture": {
         "64bit": {
             "hash": [
-                "b3030ac7b1f5eb924fb28435076bb4cc3f46b8f1b9d0aff87e966034dfe2efcb",
+                "bdcd0a3522f2964411567dc0d2bfb662f6853dd22c7970409c67cf693e1328af",
                 "2255673952a7909596b8783f6e913d2301f91f0def0275fcfbc6371b0ca021f8"
             ],
             "shortcuts": [
@@ -13,7 +13,7 @@
                 ]
             ],
             "url": [
-                "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-223.8214.10.exe#/dl.7z",
+                "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-231.6890.12.exe#/dl.7z",
                 "https://raw.githubusercontent.com/Ash258/Scoop-JetBrains/main/scripts/portable.ps1"
             ]
         }
@@ -50,5 +50,5 @@
         "IDE\\bin\\idea.properties",
         "profile"
     ],
-    "version": "2022.3.1-223.8214.10"
+    "version": "2023.1-231.6890.12"
 }

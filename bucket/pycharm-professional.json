@@ -1,13 +1,13 @@
 {
-    "version": "2022.3-223.7571.203",
+    "version": "2022.3.2-223.8617.48",
     "description": "Cross-Platform IDE for Python by JetBrains.",
     "homepage": "https://www.jetbrains.com/pycharm/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.jetbrains.com/store/license.html"
     },
-    "url": "https://download.jetbrains.com/python/pycharm-professional-2022.3.exe#/dl.7z",
-    "hash": "69b317eb5ec29f200778905e68a7745afecbff8bfd34a29033d22eef760a2215",
+    "url": "https://download.jetbrains.com/python/pycharm-professional-2022.3.2.exe#/dl.7z",
+    "hash": "dea8447f1d7e94545804e5275d9e5c178b7aed1eca9a55228b4af5f3bcb3c37d",
     "extract_to": "IDE",
     "installer": {
         "script": [

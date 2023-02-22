@@ -1,14 +1,14 @@
 {
     "architecture": {
         "32bit": {
-            "extract_dir": "prometheus-2.40.6.windows-386",
-            "hash": "e885333626929720834cc2727a4ee45bb0058cc8b4be497ff4a02167afe1a6bf",
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/prometheus/prometheus/LatestRelease/prometheus-2.40.6.windows-386.tar.gz"
+            "extract_dir": "prometheus-2.42.0.windows-386",
+            "hash": "16440981e2272cb825c2deec6c39ae323cc370072f7d470c1315172c48191fee",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/prometheus/prometheus/LatestRelease/prometheus-2.42.0.windows-386.tar.gz"
         },
         "64bit": {
-            "extract_dir": "prometheus-2.40.6.windows-amd64",
-            "hash": "226126bd45ce8eb9c3c87c9cbd72cea6e0baf5226b6c3cec78ecb36f53c1a75f",
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/prometheus/prometheus/LatestRelease/prometheus-2.40.6.windows-amd64.tar.gz"
+            "extract_dir": "prometheus-2.42.0.windows-amd64",
+            "hash": "cde228824f38297ae193bdbd9c2399cfff2135b88ce34952224d8e118bcbb4fc",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/github-release/prometheus/prometheus/LatestRelease/prometheus-2.42.0.windows-amd64.tar.gz"
         }
     },
     "autoupdate": {
@@ -45,5 +45,5 @@
         "data",
         "prometheus.yml"
     ],
-    "version": "2.40.6"
+    "version": "2.42.0"
 }

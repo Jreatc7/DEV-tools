@@ -1,16 +1,16 @@
 {
-    "description": "Cross platform open source file manager with two panels side by side inspired by Total Commander.",
     "homepage": "https://doublecmd.sourceforge.io/",
+    "description": "Two pane file manager inspired by Total Commander",
     "license": "GPL-2.0-only",
-    "version": "1.0.6",
+    "version": "1.0.10",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2064%20bit/Double%20Commander%201.0.6%20beta/doublecmd-1.0.6.x86_64-win64.msi",
-            "hash": "sha1:09d577c60767316d1c39c4276ecb073c19e9b857"
+            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2064%20bit/Double%20Commander%201.0.10/doublecmd-1.0.10.x86_64-win64.msi",
+            "hash": "sha1:33d190223975f22e472f1384fb2cd219b03326ab"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2032%20bit/Double%20Commander%201.0.6%20beta/doublecmd-1.0.6.i386-win32.msi",
-            "hash": "sha1:93b1a2cda56f250e62ee3f66437e779fa07ba891"
+            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2032%20bit/Double%20Commander%201.0.10/doublecmd-1.0.10.i386-win32.msi",
+            "hash": "sha1:d4fc86082afd49271d89ed536067abe2cec127a8"
         }
     },
     "extract_dir": "Double Commander",
@@ -49,10 +49,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2064%20bit/Double%20Commander%20$version%20beta/doublecmd-$version.x86_64-win64.msi"
+                "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2064%20bit/Double%20Commander%20$version/doublecmd-$version.x86_64-win64.msi"
             },
             "32bit": {
-                "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2032%20bit/Double%20Commander%20$version%20beta/doublecmd-$version.i386-win32.msi"
+                "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2032%20bit/Double%20Commander%20$version/doublecmd-$version.i386-win32.msi"
             }
         }
     }

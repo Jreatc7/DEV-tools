@@ -1,7 +1,7 @@
 {
  "architecture": {
   "32bit": {
-   "hash": "1c68d505ab38ef8cfaf187d48e8f8543a4d135260cc2e97943a66e1c30de2a88",
+   "hash": "02f4f26c04200ad060f1102bb63ad7fc9f3bff1b15600b60785a8a0d7cb22ea0",
    "installer": {
     "script": "sudo regsvr32 \"$dir\\XnViewShellExt.dll\""
    },
@@ -11,7 +11,7 @@
    "url": "https://download.xnview.com/XnShellEx.zip"
   },
   "64bit": {
-   "hash": "7337ed619cb6fde167bdb1ec3e08139dc178277b0f0a85b91bbb5525498c4bfe",
+   "hash": "4f3cca971039eadf638a868db621d69bb0e8553ef8a55f058f09970c6ca809d1",
    "installer": {
     "script": "sudo regsvr32 \"$dir\\XnViewShellExt64.dll\""
    },
@@ -44,5 +44,5 @@
   "If you enjoy using XnShell, Feel free to help the developer with a small donation.",
   "License:  Name(XnSoft), Key(1865469205)"
  ],
- "version": "4.15"
+ "version": "4.16"
 }

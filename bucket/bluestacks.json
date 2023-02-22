@@ -1,12 +1,12 @@
 {
  "architecture": {
   "32bit": {
-   "hash": "0ebd76fa76a1fd16482ab626f4495d24303f82495e786c66d6c4f1198213c8e9",
-   "url": "https://cdn3.bluestacks.com/downloads/windows/nxt/5.9.410.1001/e50a7415853447948317c30a31b748fc/FullInstaller/x86/BlueStacksFullInstaller_5.9.410.1001_x86_native.exe#/setup.exe"
+   "hash": "18e1f67ed71fa0e6f650a86d726e04e7d96323ed8c81662439ffd36eb5dc6bc2",
+   "url": "https://cdn3.bluestacks.com/downloads/windows/nxt/5.10.10.1013/bc20f2d6dcedf968c6bcbd7ff2dacaf3/FullInstaller/x86/BlueStacksFullInstaller_5.10.10.1013_x86_native.exe#/setup.exe"
   },
   "64bit": {
-   "hash": "70d8fb2ecc4ef4071244e76228a92282efcf00bef18d9c1f2629f88c0f1441c5",
-   "url": "https://cdn3.bluestacks.com/downloads/windows/nxt/5.9.410.1001/e50a7415853447948317c30a31b748fc/FullInstaller/x64/BlueStacksFullInstaller_5.9.410.1001_amd64_native.exe#/setup.exe"
+   "hash": "11004d829ef27a44f82d527442e71a3273a9b884795e12b32a2b4ee4fd218051",
+   "url": "https://cdn3.bluestacks.com/downloads/windows/nxt/5.10.10.1013/bc20f2d6dcedf968c6bcbd7ff2dacaf3/FullInstaller/x64/BlueStacksFullInstaller_5.10.10.1013_amd64_native.exe#/setup.exe"
   }
  },
  "autoupdate": {
@@ -47,5 +47,5 @@
    "Start-Process -Wait \"$uninstaller\" \"-s\" -Verb RunAs"
   ]
  },
- "version": "5.9.410.1001"
+ "version": "5.10.10.1013"
 }

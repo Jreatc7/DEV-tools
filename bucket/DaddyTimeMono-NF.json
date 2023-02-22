@@ -1,10 +1,10 @@
 {
-    "version": "2.2.2",
+    "version": "2.3.3",
     "description": "Nerd Fonts patched 'DaddyTimeMono' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/DaddyTimeMono.zip",
-    "hash": "1898e76cf209d07667f33286d1ed0231cc5dfeb50b151c1a6cc7660fdb6640ef",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/DaddyTimeMono.zip",
+    "hash": "8d050b0f96e218fd706fdea6ee773754f147b9120cd1bac057efe1dbc9a20563",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",

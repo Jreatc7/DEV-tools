@@ -1,12 +1,12 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "8d594838ed85ec4ea86c3b98140810f9821c1126f615c26fe6c7552f4f8526ff",
-            "url": "https://dl.google.com/go/go1.20rc1.windows-386.zip"
+            "hash": "73277d054190e9f4f3019078a77a2fb7bff4c874adc53551908eb40ca691cb06",
+            "url": "https://dl.google.com/go/go1.20rc3.windows-386.zip"
         },
         "64bit": {
-            "hash": "19635ab47c07aac48ca58e486b7bc665f63fb2082bfd77ecc400c1eeb6e1828a",
-            "url": "https://dl.google.com/go/go1.20rc1.windows-amd64.zip"
+            "hash": "f577d77b6c244c476054f60a350a7ff1b0398da307306eb7de7a93598bb3d7e8",
+            "url": "https://dl.google.com/go/go1.20rc3.windows-amd64.zip"
         }
     },
     "autoupdate": {
@@ -48,5 +48,5 @@
     "uninstaller": {
         "script": "remove_from_path \"$env:USERPROFILE\\go\\bin\" $global"
     },
-    "version": "1.20rc1"
+    "version": "1.20rc3"
 }

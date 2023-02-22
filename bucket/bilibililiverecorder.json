@@ -38,7 +38,7 @@
  ],
  "checkver": "github",
  "description": "Live recording, support Bilibili/Acfun/Douyu/Huya/Kuaishou/Huajiao/Zhanqi/YY",
- "hash": "cdf6a0aa07e01140fdca25cdd2e4be3bae31615e995267e749825871345d2cea",
+ "hash": "d15fc7608b330f1085408a9ffeebf72e51d42bfa6ec28da6e9db5c1ab678f090",
  "homepage": "https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder",
  "license": {
   "identifier": "Apache-2.0",
@@ -47,6 +47,6 @@
  "suggest": {
   "JDK": "java/openjdk"
  },
- "url": "https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder/releases/download/V2.22.0/BilibiliLiveRecord.v2.22.0.zip",
- "version": "2.22.0"
+ "url": "https://github.com/nICEnnnnnnnLee/BilibiliLiveRecorder/releases/download/V2.24.0/BilibiliLiveRecord.v2.24.0.zip",
+ "version": "2.24.0"
 }

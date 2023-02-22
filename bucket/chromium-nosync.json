@@ -1,17 +1,17 @@
 {
     "##": "Check chromium.woolyss.com for different versions of Chromium releases.",
-    "version": "108.0.5359.99-r1016",
+    "version": "110.0.5481.104-r839",
     "description": "Browser aiming for safer, faster, and more stable way for all users to experience the web.",
     "homepage": "https://www.chromium.org",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Hibbiki/chromium-win64/releases/download/v108.0.5359.99-r1016/chrome.nosync.7z",
-            "hash": "sha1:21b883e8782ca25b6241f2341db3490d7fe8866d"
+            "url": "https://github.com/Hibbiki/chromium-win64/releases/download/v110.0.5481.104-r839/chrome.nosync.7z",
+            "hash": "sha1:af745c57f06b329df3f3b62b52852abfed399df0"
         },
         "32bit": {
-            "url": "https://github.com/Hibbiki/chromium-win32/releases/download/v108.0.5359.99-r1016/chrome.nosync.7z",
-            "hash": "sha1:2d52a4a881cd0e10a13c868c3d5235c6758fbec5"
+            "url": "https://github.com/Hibbiki/chromium-win32/releases/download/v110.0.5481.104-r839/chrome.nosync.7z",
+            "hash": "sha1:6a75a09124733ebc9bf9bb50c9d480c15ddb3967"
         }
     },
     "extract_dir": "Chrome-bin",

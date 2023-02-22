@@ -1,10 +1,10 @@
 {
-    "version": "2.2.2",
+    "version": "2.3.3",
     "description": "Nerd Fonts patched 'SourceCodePro' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/SourceCodePro.zip",
-    "hash": "a736448f04c73bdefefc356c024a5d9250ec086a0621c84179fc44587650c731",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/SourceCodePro.zip",
+    "hash": "5fe3f414fc1c985c59283565176a71243f9983fb7ba5c9da37357d4b552eda15",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",

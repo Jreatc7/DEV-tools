@@ -12,7 +12,7 @@
   "url": "https://portableapps.com/apps/utilities/colour-contrast-analyser-portable"
  },
  "description": "Analyze color contrast & readability",
- "hash": "md5:7d98232060cd07f17beb06b68bb43dc3",
+ "hash": "de2b277601841d9222c65658447cbcb8b67459aee70c4a1fd614fa59d083777d",
  "homepage": "https://portableapps.com/apps/utilities/colour-contrast-analyser-portable",
  "license": "",
  "persist": "Data",
@@ -23,6 +23,6 @@
    "ColourContrastAnalyserPortable"
   ]
  ],
- "url": "https://downloads.sourceforge.net/portableapps/ColourContrastAnalyserPortable_2.5.0.0.paf.exe#/dl.7z",
- "version": "2.5.0.0"
+ "url": "https://downloads.sourceforge.net/portableapps/ColourContrastAnalyserPortable_3.2.0.paf.exe",
+ "version": "3.2.0"
 }

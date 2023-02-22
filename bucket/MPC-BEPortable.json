@@ -12,7 +12,7 @@
   "url": "https://portableapps.com/apps/music_video/mpc-be-portable"
  },
  "description": "Video player",
- "hash": "f1624796f107675e598bc7a103526033f08776cb2ec1421decebfd97f810003c",
+ "hash": "b944fe09088a89082386247243f4edfd0368c89c91cff34a0b2cde2c5b9ee5a0",
  "homepage": "https://portableapps.com/apps/music_video/mpc-be-portable",
  "license": "",
  "persist": "Data",
@@ -23,6 +23,6 @@
    "MPC-BEPortable"
   ]
  ],
- "url": "https://gigenet.dl.sourceforge.net/project/portableapps/Media%20Player%20Classic%20-%20Black%20Edition%20Portable/MPC-BEPortable_1.6.4.paf.exe",
- "version": "1.6.4"
+ "url": "https://gigenet.dl.sourceforge.net/project/portableapps/Media%20Player%20Classic%20-%20Black%20Edition%20Portable/MPC-BEPortable_1.6.5.3.paf.exe",
+ "version": "1.6.5.3"
 }

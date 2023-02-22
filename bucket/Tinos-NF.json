@@ -1,10 +1,10 @@
 {
-    "version": "2.2.2",
+    "version": "2.3.3",
     "description": "Nerd Fonts patched 'Tinos' Font family. (Normal version, Nerd Fonts Symbol/Icon could be 1 or 2 cell wide)",
     "homepage": "https://github.com/ryanoasis/nerd-fonts",
     "license": "MIT",
-    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/Tinos.zip",
-    "hash": "3e353181bd7eadcac29b31dfbac7a87020daa6b0e870e0c9fe3ff4fc6b647792",
+    "url": "https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/Tinos.zip",
+    "hash": "a14d14b7fb9ccd410e672676f29c8cca57e8f47b744e53736f961fa7f5796b85",
     "installer": {
         "script": [
             "$currentBuildNumber = [int] (Get-ItemProperty \"HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\").CurrentBuildNumber",

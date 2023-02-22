@@ -1,12 +1,12 @@
 {
-    "version": "0.2212.8-beta",
+    "version": "0.2302.17-beta",
     "description": "A social network off the grid.",
     "homepage": "https://www.manyver.se/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/staltz/manyverse/releases/download/v0.2212.8-beta/manyverse-0.2212.8-beta-windows-x64-nsis-installer.exe#/dl.7z",
-            "hash": "sha512:eac489ea9d2dc5cc2145b6218ead2d5d8f222e71fd596aff3cfd09a3aeeae656edf40cea2add8955b84f0dda571fe7fa959fc9b8fc9ef824fe6d302e8435954c",
+            "url": "https://github.com/staltz/manyverse/releases/download/v0.2302.17-beta/manyverse-0.2302.17-beta-windows-x64-nsis-installer.exe#/dl.7z",
+            "hash": "sha512:cd36b8922f1577d9dd2890b9d6ebda3b9c208098326142064a74e56daf312514c9b1b75da52215aab8a36c7f8d6af7d955e96e84381f9c6d4dc72561783f38d5",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall*\", \"$dir\\resources\\app-update.yml\"  -Force -Recurse"

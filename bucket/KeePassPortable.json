@@ -12,7 +12,7 @@
   "url": "https://portableapps.com/KeepassPortable"
  },
  "description": "Password manager",
- "hash": "2125c2aa4b5f921ad85a4cfe7be13dd4fcd3aad2397ec3199692f61fa58d0c27",
+ "hash": "a7a24cb072110a94d8b392ecb5a5cfc81c02ab3d4ef0835f89e37f6f36400541",
  "homepage": "https://portableapps.com/KeepassPortable",
  "license": "",
  "persist": "Data",
@@ -23,6 +23,6 @@
    "KeePassPortable"
   ]
  ],
- "url": "https://pilotfiber.dl.sourceforge.net/project/portableapps/KeePass%20Portable/KeePassPortable_1.40.1.paf.exe",
- "version": "1.40.1"
+ "url": "https://pilotfiber.dl.sourceforge.net/project/portableapps/KeePass%20Portable/KeePassPortable_1.41.paf.exe",
+ "version": "1.41"
 }

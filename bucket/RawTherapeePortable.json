@@ -12,7 +12,7 @@
   "url": "https://portableapps.com/apps/graphics_pictures/rawtherapee-portable"
  },
  "description": "RAW image processor",
- "hash": "md5:c6743f6313723793e2023a18192dcf6f",
+ "hash": "10bf9c4eb26b571cd55749643887dc5d37e2dec3602134d88209cfe408d56666",
  "homepage": "https://portableapps.com/apps/graphics_pictures/rawtherapee-portable",
  "license": "",
  "persist": "Data",
@@ -23,6 +23,6 @@
    "RawTherapeePortable"
   ]
  ],
- "url": "https://cfhcable.dl.sourceforge.net/project/portableapps/RawTherapee%20Portable/RawTherapeePortable_5.8.paf.exe#/dl.7z",
- "version": "5.8"
+ "url": "https://cfhcable.dl.sourceforge.net/project/portableapps/RawTherapee%20Portable/RawTherapeePortable_5.9.paf.exe",
+ "version": "5.9"
 }

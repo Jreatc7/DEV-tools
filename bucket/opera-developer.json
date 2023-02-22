@@ -1,12 +1,12 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "e571ad809f7716ffd0e2766af2041dc4315e6a9e18e100f48bb5b444baf6f1e3",
-            "url": "https://download1.operacdn.com/pub/opera-developer/95.0.4632.0/win/Opera_Developer_95.0.4632.0_Autoupdate.exe#/dl.7z"
+            "hash": "42a737ecf9e5eadcc9661506daae8f33366d6f109c1d92e4d3358646b855400e",
+            "url": "https://download1.operacdn.com/pub/opera-developer/97.0.4704.0/win/Opera_Developer_97.0.4704.0_Autoupdate.exe#/dl.7z"
         },
         "64bit": {
-            "hash": "0a17c9579a4387bf2ef9959c5304a0a8b986b347654a3bafa4b49bddac5aada6",
-            "url": "https://download1.operacdn.com/pub/opera-developer/95.0.4632.0/win/Opera_Developer_95.0.4632.0_Autoupdate_x64.exe#/dl.7z"
+            "hash": "cd9c7f02bfce183777b657f07ee65309b51ceca693a8724d653346d42ed3fb22",
+            "url": "https://download1.operacdn.com/pub/opera-developer/97.0.4704.0/win/Opera_Developer_97.0.4704.0_Autoupdate_x64.exe#/dl.7z"
         }
     },
     "autoupdate": {
@@ -51,5 +51,5 @@
             "Opera Developer"
         ]
     ],
-    "version": "95.0.4632.0"
+    "version": "97.0.4704.0"
 }

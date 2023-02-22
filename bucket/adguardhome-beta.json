@@ -1,12 +1,12 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "030dc68000017b26523bedc6445e867e20070df777a479753a36441c644c5ffe",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.23/AdGuardHome_windows_386.zip"
+            "hash": "603284cddbca0c3a87a979746719bb9e02dcd21a9b9ede5294e919196dd19e88",
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.28/AdGuardHome_windows_386.zip"
         },
         "64bit": {
-            "hash": "06dd557be9dc7082333cb4649b540310a4df91fb051e8ff3489e26b5a9ef544e",
-            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.23/AdGuardHome_windows_amd64.zip"
+            "hash": "0044f496ef226f6fa0b9a4032e1b20eae9110d5ffdbb235d026965f37ffa7991",
+            "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.28/AdGuardHome_windows_amd64.zip"
         }
     },
     "autoupdate": {
@@ -60,5 +60,5 @@
             "}"
         ]
     },
-    "version": "0.108.0-b.23"
+    "version": "0.108.0-b.28"
 }

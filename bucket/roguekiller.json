@@ -1,5 +1,5 @@
 {
-    "version": "15.6.3.0",
+    "version": "15.8.0.0",
     "homepage": "https://www.adlice.com/roguekiller/",
     "description": "A security app used for terminating malicious processes, and programs from your computer.",
     "license": {
@@ -8,13 +8,13 @@
     },
     "notes": "App Config and Settings are stored in this directory: \"$env:ProgramData\\RogueKiller\"",
     "innosetup": true,
-    "url": "https://cloud.adlice.com/owncloud/index.php/s/QE2fq4D24A1IKEb/download?path=15.6.3.0&files=RogueKiller_setup.exe",
-    "hash": "3a57577c9c07a0ad5ab42ab9c73cd1c64bcf9ee7d9df59e89cbd4e472ee87936",
+    "url": "https://cloud.adlice.com/owncloud/index.php/s/QE2fq4D24A1IKEb/download?path=15.8.0.0&files=RogueKiller_setup.exe",
+    "hash": "b165b6e4204a624f6f11c52d561dc59f15629fa17c7285b05b5b279110ff9560",
     "architecture": {
         "64bit": {
             "pre_install": [
-                "Rename-Item \"$dir\\RogueKillerSvc,2.exe\" 'RogueKillerSvc.exe'; Rename-Item \"$dir\\RogueKillerShell,2.dll\" 'RogueKillerShell.dll' | Out-Null",
-                "Remove-Item (\"$dir\\RogueKiller.exe\", \"$dir\\rkmon32.dll\", \"$dir\\RogueKillerShell,1.dll\", \"$dir\\RogueKillerSvc,1.exe\", \"$dir\\Updater.exe\") | Out-Null"
+                "Rename-Item \"$dir\\RogueKillerSvc,2.exe\" 'RogueKillerSvc.exe'; Rename-Item \"$dir\\RogueKillerShell,2.dll\" 'RogueKillerShell.dll'",
+                "Remove-Item \"$dir\\RogueKiller.exe\", \"$dir\\rkmon32.dll\", \"$dir\\RogueKillerShell,1.dll\", \"$dir\\RogueKillerSvc,1.exe\", \"$dir\\Updater.exe\""
             ],
             "bin": "RogueKiller64.exe",
             "shortcuts": [
@@ -23,12 +23,12 @@
                     "RogueKiller"
                 ]
             ],
-            "pre_uninstall": "if (Get-Process -Name ('RogueKiller64', 'RogueKillerSvc')) {Stop-Process -Name ('RogueKiller64', 'RogueKillerSvc') -Force | Out-Null}"
+            "pre_uninstall": "if (Get-Process -Name 'RogueKiller64', 'RogueKillerSvc' -ErrorAction 'SilentlyContinue') {Stop-Process -Name 'RogueKiller64', 'RogueKillerSvc' -Force }"
         },
         "32bit": {
             "pre_install": [
-                "Rename-Item \"$dir\\RogueKillerSvc,1.exe\" 'RogueKillerSvc.exe'; Rename-Item \"$dir\\RogueKillerShell,1.dll\" 'RogueKillerShell.dll' | Out-Null",
-                "Remove-Item (\"$dir\\RogueKiller64.exe\", \"$dir\\rkmon64.dll\", \"$dir\\RogueKillerShell,2.dll\", \"$dir\\RogueKillerSvc,2.exe\", \"$dir\\Updater.exe\") | Out-Null"
+                "Rename-Item \"$dir\\RogueKillerSvc,1.exe\" 'RogueKillerSvc.exe'; Rename-Item \"$dir\\RogueKillerShell,1.dll\" 'RogueKillerShell.dll'",
+                "Remove-Item \"$dir\\RogueKiller64.exe\", \"$dir\\rkmon64.dll\", \"$dir\\RogueKillerShell,2.dll\", \"$dir\\RogueKillerSvc,2.exe\", \"$dir\\Updater.exe\""
             ],
             "bin": "RogueKiller.exe",
             "shortcuts": [
@@ -37,7 +37,7 @@
                     "RogueKiller"
                 ]
             ],
-            "pre_uninstall": "if (Get-Process -Name ('RogueKiller', 'RogueKillerSvc')) {Stop-Process -Name ('RogueKiller', 'RogueKillerSvc') -Force | Out-Null}"
+            "pre_uninstall": "if (Get-Process -Name 'RogueKiller', 'RogueKillerSvc' -ErrorAction 'SilentlyContinue') { Stop-Process -Name 'RogueKiller', 'RogueKillerSvc' -Force }"
         }
     },
     "checkver": {

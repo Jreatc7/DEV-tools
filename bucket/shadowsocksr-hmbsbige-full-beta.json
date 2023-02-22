@@ -1,12 +1,12 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "27114a4a13eb63260e19ef7418e213af5a9e26df6df281f99531bc6529dc9e5d",
-            "url": "https://nightly.link/HMBSbige/ShadowsocksR-Windows/actions/runs/3682015243/ShadowsocksR-Win32.zip"
+            "hash": "771e14a6fd7bc263821fb5cf1778358dca2add7d67a13f1b313725c9f6675628",
+            "url": "https://nightly.link/HMBSbige/ShadowsocksR-Windows/actions/runs/4178764915/ShadowsocksR-Win32.zip"
         },
         "64bit": {
-            "hash": "016323c85b3c44cd222107efab5830d2181ab6ee34aaad7937acffad9bf7e3ac",
-            "url": "https://nightly.link/HMBSbige/ShadowsocksR-Windows/actions/runs/3682015243/ShadowsocksR-Win64.zip"
+            "hash": "0becd4e828fd83b8a163004ce26cede1a43c26fd8fc55221a7b39d0a200d9cec",
+            "url": "https://nightly.link/HMBSbige/ShadowsocksR-Windows/actions/runs/4178764915/ShadowsocksR-Win64.zip"
         }
     },
     "autoupdate": {
@@ -53,5 +53,5 @@
             "}"
         ]
     },
-    "version": "20221213.05fc5bb"
+    "version": "20230214.b6a281b"
 }

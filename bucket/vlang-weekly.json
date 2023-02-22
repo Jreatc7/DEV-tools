@@ -9,9 +9,9 @@
     },
     "description": "Simple, fast, safe, compiled. For developing maintainable software.",
     "extract_dir": "v",
-    "hash": "4d307bbce566aae46adeeb26b7cdc5449f7d35b8536c8c0bc19e920f250dff1a",
+    "hash": "6b519c337f985431c535f81fb5ecafc50dc0905db5207240fc46afa64e2cc252",
     "homepage": "https://vlang.io/",
     "license": "MIT",
-    "url": "https://github.com/vlang/v/releases/download/weekly.2022.48/v_windows.zip",
-    "version": "2022.48"
+    "url": "https://github.com/vlang/v/releases/download/weekly.2023.07/v_windows.zip",
+    "version": "2023.07"
 }

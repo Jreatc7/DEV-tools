@@ -36,7 +36,8 @@
         ]
     },
     "checkver": {
-        "github": "https://github.com/lexikos/autohotkey_l"
+        "url": "https://www.autohotkey.com/docs/v1/AHKL_ChangeLog.htm",
+        "regex": "<h2 id=\"v([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/Lexikos/AutoHotkey_L/releases/download/v$version/AutoHotkey_$version_setup.exe#/setup.exe"

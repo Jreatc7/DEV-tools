@@ -1,5 +1,5 @@
 {
-    "version": "1.74.0",
+    "version": "1.75.1",
     "description": "Lightweight but powerful source code editor",
     "homepage": "https://code.visualstudio.com/",
     "license": {
@@ -12,16 +12,16 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://update.code.visualstudio.com/1.74.0/win32-x64-archive/stable#/dl.7z",
-            "hash": "d2e2f34633da35b373731ba6147b69fd30cd301eaef6d4a7d9558fbc71f72ac1"
+            "url": "https://update.code.visualstudio.com/1.75.1/win32-x64-archive/stable#/dl.7z",
+            "hash": "d231b591feb3f184ecf8eebeef54f821e6aa42f6f23cf0b308ac363a4d319575"
         },
         "32bit": {
-            "url": "https://update.code.visualstudio.com/1.74.0/win32-archive/stable#/dl.7z",
-            "hash": "7f0e4ce994028603a5a51c7c7e010afbcc1340030dd59c5ff5f7b5ec16fbb413"
+            "url": "https://update.code.visualstudio.com/1.75.1/win32-archive/stable#/dl.7z",
+            "hash": "c3bcec8427afcaa17b4be5e42b3560561cf89ac57015c15b4484e27343f17331"
         },
         "arm64": {
-            "url": "https://update.code.visualstudio.com/1.74.0/win32-arm64-archive/stable#/dl.7z",
-            "hash": "8f26a3e73a07d5975e714fbd5a455b5e0fbd51dbcab42bc0bae04c4bda2b06e7"
+            "url": "https://update.code.visualstudio.com/1.75.1/win32-arm64-archive/stable#/dl.7z",
+            "hash": "4dc7af7d8d4e4f0b002eba78b9631c34579fbe85d4795f462a2645fb84503ade"
         }
     },
     "env_add_path": "bin",
@@ -52,6 +52,11 @@
         "if (!(Test-Path \"$dir\\data\\user-data\") -and (Test-Path \"$env:AppData\\Code\")) {",
         "    info '[Portable Mode] Copying user data...'",
         "    Copy-Item \"$env:AppData\\Code\" \"$dir\\data\\user-data\" -Recurse",
+        "}",
+        "$extensions_file = \"$dir\\data\\extensions\\extensions.json\"",
+        "if ((Test-Path \"$extensions_file\")) {",
+        "    info 'Adjusting path in extensions file...'",
+        "    (Get-Content \"$extensions_file\") -replace '(?<=vscode(/|\\\\\\\\)).*?(?=(/|\\\\\\\\)data(/|\\\\\\\\)extensions)', $version | Set-Content \"$extensions_file\"",
         "}"
     ],
     "uninstaller": {

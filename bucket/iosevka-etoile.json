@@ -4,7 +4,7 @@
     },
     "checkver": "github",
     "description": "Versatile typeface for code, from code.",
-    "hash": "6ca68991c3bc6f34fa4af444e359eb1c546771210d18264d2b8c4468d1c92db0",
+    "hash": "dfeec6bae529ebb3feafa0d8b3095086786900c80e0093d94c6e51590aa95485",
     "homepage": "https://github.com/be5invis/Iosevka",
     "installer": {
         "script": [
@@ -26,6 +26,6 @@
             "Write-Host \"'Iosevka Etoile' has been uninstalled and will not be present after restarting your computer.\" -Foreground Magenta"
         ]
     },
-    "url": "https://github.com/be5invis/Iosevka/releases/download/v16.7.0/super-ttc-iosevka-etoile-16.7.0.zip",
-    "version": "16.7.0"
+    "url": "https://github.com/be5invis/Iosevka/releases/download/v19.0.1/super-ttc-iosevka-etoile-19.0.1.zip",
+    "version": "19.0.1"
 }

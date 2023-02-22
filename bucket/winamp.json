@@ -7,7 +7,7 @@
   "url": "https://www.techspot.com/downloads/3-winamp-full.html"
  },
  "description": "Winamp is a legend. A game changer since 1997. A media player with a heritage, and a vibrant community of 80 million active users worldwide today.",
- "hash": "0e4c546a0aab1355b280c224b37ee5b0725c5d28b43a86ec734618507104b198",
+ "hash": "fb089a6903d295155cbe91487e54904219b7aa1caebd39fa17e7ef0bf9591230",
  "homepage": "https://www.winamp.com/",
  "installer": {
   "script": [
@@ -30,5 +30,5 @@
   ]
  ],
  "url": "https://download.nullsoft.com/winamp/client/winamp_latest_full.exe#/dl.7z",
- "version": "5.9.0.9999"
+ "version": "5.9.1.10029"
 }

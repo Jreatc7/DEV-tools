@@ -1,8 +1,8 @@
 {
     "architecture": {
         "64bit": {
-            "hash": "45e63c31f1fb326ab27ecdde0fdf92a74fb1ba93508df3bbf9acac22079e8063",
-            "url": "https://download.jetbrains.com/resharper/dotUltimate.2022.3/JetBrains.dotTrace.CommandLineTools.windows-x64.2022.3.zip"
+            "hash": "9abcc095a6b8c4a44fc1f73febf33b1a91e8679f2e308157e1c9df7b979cfe8a",
+            "url": "https://download.jetbrains.com/resharper/dotUltimate.2022.3.2/JetBrains.dotTrace.CommandLineTools.windows-x64.2022.3.2.zip"
         }
     },
     "autoupdate": {
@@ -26,5 +26,5 @@
         "identifier": "Freeware",
         "url": "https://www.jetbrains.com/profiler/download/dottrace_clt_license.html"
     },
-    "version": "2022.3"
+    "version": "2022.3.2"
 }

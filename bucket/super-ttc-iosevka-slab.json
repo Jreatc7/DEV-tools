@@ -10,7 +10,7 @@
     "checkver": "github",
     "depends": "sudo",
     "description": "Iosevka is an open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.",
-    "hash": "5da7a9a330880695a42003229d7eba672b71dce64b22154966c904a53a9f61c2",
+    "hash": "64b30e898e8b1d7a9ca974c8a4c47685a6709d546190bef20ed167f402f8891d",
     "homepage": "https://github.com/be5invis/Iosevka",
     "installer": {
         "script": [
@@ -68,6 +68,6 @@
             "Write-Host \"The '$app' Font family has been uninstalled and will not be present after restarting your computer.\" -Foreground Magenta"
         ]
     },
-    "url": "https://github.com/be5invis/Iosevka/releases/download/v16.6.0/super-ttc-iosevka-slab-16.6.0.zip",
-    "version": "16.6.0"
+    "url": "https://github.com/be5invis/Iosevka/releases/download/v19.0.0/super-ttc-iosevka-slab-19.0.0.zip",
+    "version": "19.0.0"
 }

@@ -1,5 +1,5 @@
 {
-    "version": "5.4.6",
+    "version": "6.0.0",
     "description": "CPU/GPU benchmark software",
     "homepage": "https://www.geekbench.com/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://cdn.geekbench.com/Geekbench-5.4.6-WindowsSetup.exe",
-            "hash": "8e585c85371ff707cfee97109d03de5f5fe944e4f10f6ed36511cc659b8485f2"
+            "url": "https://cdn.geekbench.com/Geekbench-6.0.0-WindowsSetup.exe",
+            "hash": "642acb59a87cf9fabef43231202e9f795357856d07862a5649a580f150a21c4b"
         }
     },
     "installer": {

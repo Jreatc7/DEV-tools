@@ -1,12 +1,12 @@
 {
-    "version": "20221212",
+    "version": "20230122",
     "description": "GUI for Brook, a cross-platform strong encryption and not detectable proxy with zero-configuration.",
     "homepage": "https://github.com/txthinking/brook",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/txthinking/brook/releases/download/v20221212/Brook.exe",
-            "hash": "3cb154b55ffdc5c87b8eee3c2a394d7fec0a2e1a5554118b94c780f4652e273e"
+            "url": "https://github.com/txthinking/brook/releases/download/v20230122/Brook.exe",
+            "hash": "59a31e8d31224e440343e530759e31a8e58a27b0082baab91d78cd45888a9bac"
         }
     },
     "shortcuts": [

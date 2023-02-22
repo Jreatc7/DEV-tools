@@ -1,5 +1,5 @@
 {
-    "version": "8.1.5",
+    "version": "8.1.8",
     "description": "Camunda workflow instance monitor/manager",
     "homepage": "https://docs.camunda.io/docs/product-manuals/zeebe/zeebe-overview/",
     "license": {
@@ -17,8 +17,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/camunda/camunda-platform/releases/download/8.1.5/camunda-operate-8.1.5.zip",
-            "hash": "sha1:848c70d696dabd1999409655bbc13052e1339fcf"
+            "url": "https://github.com/camunda/camunda-platform/releases/download/8.1.8/camunda-operate-8.1.8.zip",
+            "hash": "sha1:0251f42b517dbcbcf87ff65fee3b5fd56c52de05"
         }
     },
     "extract_dir": "camunda-operate-8.0.0",
