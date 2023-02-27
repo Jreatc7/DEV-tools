@@ -1,12 +1,12 @@
 {
     "architecture": {
         "32bit": {
-            "hash": "sha512:ed495484b90505546939b47b13ac94c2d855b0c00ac870404a4b766868adff28832c1e93c011c34f498a8b10e80e797d7d6d3d82ba477e93dab94be7d7aa012d",
-            "url": "https://archive.mozilla.org/pub/devedition/releases/111.0b4/win32/fa-IR/Firefox%20Setup%20111.0b4.exe#/dl.7z"
+            "hash": "sha512:49847ca1bd4e5ca20e0b669d105a04777773e25c37441cb93194749ed8d3f2c2b4e3a7420922ccae18f65f5e39aabb4984b68b46576f66a877bfd8799b76bd11",
+            "url": "https://archive.mozilla.org/pub/devedition/releases/111.0b6/win32/fa-IR/Firefox%20Setup%20111.0b6.exe#/dl.7z"
         },
         "64bit": {
-            "hash": "sha512:ed495484b90505546939b47b13ac94c2d855b0c00ac870404a4b766868adff28832c1e93c011c34f498a8b10e80e797d7d6d3d82ba477e93dab94be7d7aa012d",
-            "url": "https://archive.mozilla.org/pub/devedition/releases/111.0b4/win64/fa-IR/Firefox%20Setup%20111.0b4.exe#/dl.7z"
+            "hash": "sha512:49847ca1bd4e5ca20e0b669d105a04777773e25c37441cb93194749ed8d3f2c2b4e3a7420922ccae18f65f5e39aabb4984b68b46576f66a877bfd8799b76bd11",
+            "url": "https://archive.mozilla.org/pub/devedition/releases/111.0b6/win64/fa-IR/Firefox%20Setup%20111.0b6.exe#/dl.7z"
         }
     },
     "autoupdate": {
@@ -55,5 +55,5 @@
             "-profile \"$dir\\profile\""
         ]
     ],
-    "version": "111.0b4"
+    "version": "111.0b6"
 }
